@@ -29,7 +29,7 @@ const DirectoryNavigator = createStackNavigator(
         CampsiteInfo: { screen: CampsiteInfo }
     },
 
-    {
+    {             
         initialRouteName: 'Directory',
         defaultNavigationOptions: {
             headerStyle: {
